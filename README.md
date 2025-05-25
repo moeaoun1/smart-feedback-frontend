@@ -4,6 +4,10 @@ A simple AI-powered web app to generate polished performance feedback summaries 
 
 ---
 
+
+## 🌐 Live Demo
+[smart-feedback.netlify.app](https://smart-feedback.netlify.app/)
+
 ## ✨ Features
 
 - Paste raw feedback text
@@ -36,6 +40,7 @@ A simple AI-powered web app to generate polished performance feedback summaries 
 ## 🚀 Getting Started
 
 ### Clone + Install
+
 ```bash
 git clone https://github.com/moeaoun1/smart-feedback-frontend.git
 cd smart-feedback-frontend

@@ -90,6 +90,14 @@ function App() {
               ))}
             </div>
         )}
+
+        <p className="disclaimer">
+          ⏳ Note: First request may take 20–30 seconds while the server spins up.
+        </p>
+
+        <footer className="footer">
+          © 2025 Moe Aoun
+        </footer>
       </div>
   );
 }

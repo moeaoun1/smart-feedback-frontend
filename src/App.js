@@ -18,7 +18,7 @@ function App() {
     setSummary('');
 
     try {
-      const res = await fetch('http://127.0.0.1:8000/feedback', {
+      const res = await fetch(`${process.env.REACT_APP_API_URL}/feedback`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ raw_input: rawInput }),

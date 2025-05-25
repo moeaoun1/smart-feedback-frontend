@@ -16,8 +16,7 @@ A simple AI-powered web app to generate polished performance feedback summaries 
 
 ## 🖼️ Screenshot
 
-![screenshot](public/screenshot.png)  
-_(Add your own UI screenshot here)_
+![Smart Feedback Assistant Screenshot](public/screenshot.png)
 
 ---
 

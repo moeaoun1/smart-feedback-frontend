@@ -35,14 +35,4 @@ A simple AI-powered web app to generate polished performance feedback summaries 
 - OpenAI API
 - PostgreSQL (via SQLAlchemy)
 
----
 
-## 🚀 Getting Started
-
-### Clone + Install
-
-```bash
-git clone https://github.com/moeaoun1/smart-feedback-frontend.git
-cd smart-feedback-frontend
-npm install
-npm start
